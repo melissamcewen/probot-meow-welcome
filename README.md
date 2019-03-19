@@ -1,10 +1,11 @@
 Welcome to Probot Meow Welcome
 =========================
 
-This is a Probot that welcomes new issues with a handy custom cat image with rainbow text🌈😻.
+This is a Probot that welcomes new issues with a handy custom cat image with rainbow text🌈😻. You can try it out by opening an issue here:
+https://github.com/melissamcewen/probot-meow-welcome
 
 ## Get Started With Probot Meow Welcome
-1. When you [Remix](https://glitch.com/help/remix/) an app on Glitch you get your own **🤖Glitch Probot App**. 
+1. "Remix" this app. When you [Remix](https://glitch.com/help/remix/) an app on Glitch you get your own **🤖Glitch Probot App**. 
 2. The next step is to create a **😸Github App**. Probot now has a handy button that does this for you automatically! Click the **Glitch 🕶 Show** button. In the [editor](https://glitch.com/edit) it's right up top to the left. 
 3. It will take you to your **🐠Glitch app URL** + `/probot`. And you'll see a button that says "Register Github App." Click it and it will take you to **Github** where you'll create a unique name for your **😸Github App** like "Worlds Coolest Probot"
 4. It will guide you through the steps, you'll want to install your new **😸Github App** to at least one repository if you want to try it out. 
